@@ -1,5 +1,7 @@
 Skeleton of a react-redux app for me to use while testing and learning.
 
+To get started, navigate to the root folder and run "npm install" followed by "npm start".
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
